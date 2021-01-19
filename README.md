@@ -1,4 +1,4 @@
-**### # install openvpn on UBUNTU**
+# install openvpn on UBUNTU**
 
 
 
@@ -21,14 +21,23 @@ then run this command:
 then you have to answer some questions or leave them to their default values like below:
 
 APPROVE_INSTALL=y
+
 APPROVE_IP=y
+
 IPV6_SUPPORT=n
+
 PORT_CHOICE=1
+
 PROTOCOL_CHOICE=1
+
 DNS=1
+
 COMPRESSION_ENABLED=n
+
 CUSTOMIZE_ENC=n
+
 CLIENT=clientname
+
 PASS=1
 
 after that you can choose to:
