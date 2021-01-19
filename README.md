@@ -1,16 +1,21 @@
-# install openvpn on UBUNTU
+**### # install openvpn on UBUNTU**
 
 
 
 first run this command as root:
 
+`
 curl -O https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh
 chmod +x openvpn-install.sh
+`
+
 
 
 then run this command:
 
+`
 ./openvpn-install.sh
+`
 
 
 then you have to answer some questions or leave them to their default values like below:
@@ -30,13 +35,15 @@ after that you can choose to:
 
 1: Add a client
 2: Remove a client
-3: unistall ovpn
+3: uninstall Ovpn
 
 after you created a user just install Filezilla and download the client that you created it and use it.
 
 to go back to the create USER menu just run the command below again: 
 
+`
 ./openvpn-install.sh
+`
 
 
 that's it
