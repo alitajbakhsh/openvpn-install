@@ -19,6 +19,7 @@ then run this command:
 
 
 then you have to answer some questions or leave them to their default values like below:
+
 `
 APPROVE_INSTALL=y
 
