@@ -19,7 +19,7 @@ then run this command:
 
 
 then you have to answer some questions or leave them to their default values like below:
-
+`
 APPROVE_INSTALL=y
 
 APPROVE_IP=y
@@ -39,13 +39,16 @@ CUSTOMIZE_ENC=n
 CLIENT=clientname
 
 PASS=1
+`
 
 after that you can choose to:
-
+`
 1: Add a client
-2: Remove a client
-3: uninstall Ovpn
 
+2: Remove a client
+
+3: uninstall Ovpn
+`
 after you created a user just install Filezilla and download the client that you created it and use it.
 
 to go back to the create USER menu just run the command below again: 
