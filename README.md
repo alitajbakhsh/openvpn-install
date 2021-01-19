@@ -5,7 +5,7 @@
 first run this command as root:
 
 `
-curl -O https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh
+curl -O https://raw.githubusercontent.com/alitajbakhsh/openvpn-install/master/openvpn-install.sh
 chmod +x openvpn-install.sh
 `
 
